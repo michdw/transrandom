@@ -18,7 +18,7 @@ If you type something in any language supported by Google Translate, this progra
 
 * Save the JSON file in the program folder or elsewhere (make sure it doesn't become publicly available)
 
-* For each new terminal session, enter the following, depending on where you've saved your API key:
+* For each new terminal session, enter the following, depending on where you've saved the JSON file:
 
   `export GOOGLE_APPLICATION_CREDENTIALS="[your_filename].json"`
 
