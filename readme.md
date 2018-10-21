@@ -16,7 +16,7 @@ If you type something in any language supported by Google Translate, this progra
   
 * Download a JSON file with a valid API key for Google Translate [here](https://cloud.google.com/translate/docs/quickstart?csw=1). Click on the "set up a project" button, choose to be the project owner, and download a private key as JSON. You will need a paying Google account, but new users get more than enough credit to cover this.
 
-* Save the JSON file in the repository folder or elsewhere
+* Save the JSON file in the program folder or elsewhere (make sure it doesn't become publicly available)
 
 * For each new terminal session, enter the following, depending on where you've saved your API key:
 
