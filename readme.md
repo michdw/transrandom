@@ -1,6 +1,10 @@
 ### What is this?
 If you type something in any language supported by Google Translate, this program will display a translation into a randomly chosen language and give you 5 options as to what the new language is, while keeping a tally of your correct and incorrect answers.
 
+### Update (January 2020)
+This app is not currently working as Google has updated their translation API :(
+I hope to code and deploy a new version of this eventually, but as of now I'm not actively working on it.
+
 ### Instructions for running this program:
 (updated October 2018 on Ubuntu Linux; terminal commands may differ in your OS)
 
