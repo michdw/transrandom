@@ -1,13 +1,6 @@
 ### What is this?
 If you type something in any language supported by Google Translate, this program will display a translation into a randomly chosen language and give you 5 options as to what the new language is, while keeping a tally of your correct and incorrect answers.
 
-<<<<<<< HEAD
-=======
-### Update (January 2020)
-This app is not currently working as Google has updated their translation API :(
-I hope to code and deploy a new version of this eventually, but as of now I'm not actively working on it.
-
->>>>>>> 2937b9a0ad2a5916744907fd064a8705ea09a218
 ### Instructions for running this program:
 (updated October 2018 on Ubuntu Linux; terminal commands may differ in your OS)
 
@@ -21,7 +14,7 @@ I hope to code and deploy a new version of this eventually, but as of now I'm no
 
   `sudo pip3 install google-cloud-translate`
   
-* Download a JSON file with a valid API key for Google Translate [here](https://cloud.google.com/translate/docs/quickstart?csw=1). Click on the "set up a project" button, choose to be the project owner, and download a private key as JSON. You will need a paying Google account, but new users get more than enough credit to cover this.
+* Download a JSON file with a valid API key for Google Translate [here](https://cloud.google.com/translate/docs/quickstart?csw=1). Click the button to set up a project, and follow the bulleted steps listed under the button. You will need a paying Google account, but new users get more than enough credit to cover this.
 
 * Save the JSON file in the program folder or elsewhere (make sure it doesn't become publicly available)
 
