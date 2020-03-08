@@ -2,7 +2,7 @@
 If you type something in any language supported by Google Translate, this program will display a translation into a randomly chosen language and give you 5 options as to what the new language is, while keeping a tally of your correct and incorrect answers.
 
 ### Instructions for running this program:
-(updated January 2020 on Ubuntu Linux; terminal commands may differ in your OS)
+(updated March 2020 on Ubuntu Linux; terminal commands may differ in your OS)
 
 * Download and save the repository folder on your computer
 
